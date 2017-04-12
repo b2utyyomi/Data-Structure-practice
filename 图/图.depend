@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491721396 source:h:\大二下数据结构上机\图\main.cpp
+	<iostream>
+	<cstring>
+
+1491957702 source:f:\大二下数据结构上机\图\main.cpp
+	<iostream>
+	<cstring>
+	<queue>
+

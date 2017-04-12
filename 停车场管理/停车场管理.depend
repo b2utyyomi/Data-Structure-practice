@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491629968 source:h:\大二下数据结构上机\停车场管理\main.cpp
+	<iostream>
+	<cstdio>
+
